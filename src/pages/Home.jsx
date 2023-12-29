@@ -11,6 +11,7 @@ const Home = () => {
           title="Homem-Aranha: Sem Volta Para Casa"
         />
         <MovieCard link="https://embedder.net/e/tt14614892" title="Dragon Ball Super: Super Hero" />
+        <MovieCard link="https://embedder.net/e/tt0816692" title="Interestelar" />
       </div>
     </div>
   );
