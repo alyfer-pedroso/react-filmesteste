@@ -67,6 +67,16 @@ const Home = () => {
           link="https://embedder.net/e/tt23751722"
           title="Percy Jackson e os Olimpianos: T1 Ep3"
         />
+        <MovieCard
+          link="https://embedder.net/e/tt4589218/"
+          title="Five Nights at Freddy's - O Pesadelo Sem Fim"
+        />
+        <MovieCard link="https://embedder.net/e/tt6566576/" title="Rua do Medo: 1994 - Parte 1" />
+        <MovieCard link="https://embedder.net/e/tt9701940/" title="Rua do Medo: 1978 - Parte 2" />
+        <MovieCard link="https://embedder.net/e/tt9701942/" title="Rua do Medo: 1666 - Parte 3" />
+        <MovieCard link="https://embedder.net/e/tt0217869/" title="Corpo Fechado" />
+        <MovieCard link="https://embedder.net/e/tt4972582/" title="Fragmentado" />
+        <MovieCard link="https://embedder.net/e/tt6823368/" title="Vidro" />
       </div>
     </div>
   );
