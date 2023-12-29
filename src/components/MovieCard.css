@@ -12,4 +12,5 @@ iframe {
   background-color: #222;
   border-radius: 0.5em;
   gap: 1em;
+  max-width: 300px;
 }
