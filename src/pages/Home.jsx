@@ -12,6 +12,7 @@ const Home = () => {
         />
         <MovieCard link="https://embedder.net/e/tt14614892" title="Dragon Ball Super: Super Hero" />
         <MovieCard link="https://embedder.net/e/tt0816692" title="Interestelar" />
+        <MovieCard link="https://embedder.net/e/tt1285016" title="A Rede Social" />
       </div>
     </div>
   );
