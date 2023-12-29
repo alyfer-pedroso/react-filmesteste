@@ -35,6 +35,26 @@ const Home = () => {
           link="https://embedder.net/e/tt10545296/"
           title="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes"
         />
+        <MovieCard link="https://embedder.net/e/tt0232500/" title="Velozes e Furiosos" />
+        <MovieCard link="https://embedder.net/e/tt0322259/" title="+ Velozes + Furiosos" />
+        <MovieCard
+          link="https://embedder.net/e/tt0463985/"
+          title="Velozes e Furiosos: Desafio em Tóquio"
+        />
+        <MovieCard link="https://embedder.net/e/tt1013752/" title="Velozes e Furiosos 4" />
+        <MovieCard
+          link="https://embedder.net/e/tt1596343/"
+          title="Velozes & Furiosos 5: Operação Rio"
+        />
+        <MovieCard link="https://embedder.net/e/tt1905041/" title="Velozes & Furiosos 6" />
+        <MovieCard link="https://embedder.net/e/tt2820852/" title="Velozes & Furiosos 7" />
+        <MovieCard link="https://embedder.net/e/tt4630562/" title="Velozes & Furiosos 8" />
+        <MovieCard
+          link="https://embedder.net/e/tt6806448/"
+          title="Velozes & Furiosos: Hobbs & Shaw"
+        />
+        <MovieCard link="https://embedder.net/e/tt5433138/" title="Velozes & Furiosos: 9" />
+        <MovieCard link="https://embedder.net/e/tt5433140/" title="Velozes & Furiosos: 10" />
       </div>
     </div>
   );
