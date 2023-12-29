@@ -7,6 +7,7 @@ const Footer = () => {
     backgroundColor: "#222",
     padding: "2em",
     textAlign: "center",
+    marginTop: "2em",
   };
   return (
     <p style={styles}>

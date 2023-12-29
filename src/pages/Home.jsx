@@ -10,9 +10,14 @@ const Home = () => {
           link="https://embedder.net/e/tt10872600/"
           title="Homem-Aranha: Sem Volta Para Casa"
         />
-        <MovieCard link="https://embedder.net/e/tt14614892" title="Dragon Ball Super: Super Hero" />
-        <MovieCard link="https://embedder.net/e/tt0816692" title="Interestelar" />
-        <MovieCard link="https://embedder.net/e/tt1285016" title="A Rede Social" />
+        <MovieCard
+          link="https://embedder.net/e/tt14614892/"
+          title="Dragon Ball Super: Super Hero"
+        />
+        <MovieCard link="https://embedder.net/e/tt0816692/" title="Interestelar" />
+        <MovieCard link="https://embedder.net/e/tt1285016/" title="A Rede Social" />
+        <MovieCard link="https://embedder.net/e/tt4154796/" title="Vingadores: Ultimato" />
+        <MovieCard link="https://embedder.net/e/tt4154756/" title="Vingadores: Guerra Infinita" />
       </div>
     </div>
   );
