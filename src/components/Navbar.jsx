@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import { BsCameraVideoFill } from "react-icons/bs";
 
+import "./Navbar.css";
+
 const Navbar = () => {
   return (
     <nav id="navbar">

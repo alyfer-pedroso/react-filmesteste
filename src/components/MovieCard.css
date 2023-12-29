@@ -1,0 +1,15 @@
+iframe {
+  border-radius: 0.5em;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+  margin: 1em;
+  padding: 1em;
+  background-color: #222;
+  border-radius: 0.5em;
+  gap: 1em;
+}

@@ -1,0 +1,14 @@
+.home h2 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2em;
+  margin: 1em 0;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
