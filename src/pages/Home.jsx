@@ -20,6 +20,7 @@ const Home = () => {
         <MovieCard link="https://embedder.net/e/tt4154756/" title="Vingadores: Guerra Infinita" />
         <MovieCard link="https://embedder.net/e/tt2395427/" title="Vingadores: Era de Ultron" />
         <MovieCard link="https://embedder.net/e/tt0848228/" title="Os Vingadores: The Avengers" />
+        <MovieCard link="https://embedder.net/e/tt2179136/" title="Sniper Americano" />
         <MovieCard link="https://embedder.net/e/tt1392170/" title="Jogos Vorazes" />
         <MovieCard link="https://embedder.net/e/tt1951264/" title="Jogos Vorazes: Em Chamas" />
         <MovieCard
