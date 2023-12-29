@@ -20,6 +20,20 @@ const Home = () => {
         <MovieCard link="https://embedder.net/e/tt4154756/" title="Vingadores: Guerra Infinita" />
         <MovieCard link="https://embedder.net/e/tt2395427/" title="Vingadores: Era de Ultron" />
         <MovieCard link="https://embedder.net/e/tt0848228/" title="Os Vingadores: The Avengers" />
+        <MovieCard link="https://embedder.net/e/tt1392170/" title="Jogos Vorazes" />
+        <MovieCard link="https://embedder.net/e/tt1951264/" title="Jogos Vorazes: Em Chamas" />
+        <MovieCard
+          link="https://embedder.net/e/tt1951265/"
+          title="Jogos Vorazes: A Esperança - Parte 1"
+        />
+        <MovieCard
+          link="https://embedder.net/e/tt1951266/"
+          title="Jogos Vorazes: A Esperança - O Final"
+        />
+        <MovieCard
+          link="https://embedder.net/e/tt10545296/"
+          title="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes"
+        />
       </div>
     </div>
   );
